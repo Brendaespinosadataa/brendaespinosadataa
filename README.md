@@ -44,11 +44,10 @@ Sou apaixonada por transformar processos manuais em soluções automatizadas, cr
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brendaespinosadataa&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/followers/brendaespinosadataa?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/brendaespinosadataa?style=for-the-badge"/>
-</p>
+- 🔥 Foco em projetos de dados e automação  
+- 📁 Repositórios organizados por estudo e prática  
+- 📊 Dashboards e soluções orientadas a negócio  
+- 🌏 Experiência internacional (Austrália)  
 
 ---
 
