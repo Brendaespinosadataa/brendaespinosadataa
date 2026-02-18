@@ -71,5 +71,5 @@ I am passionate about transforming manual processes into automated solutions, bu
 ---
 
 <p align="center">
-  ✨ <i>"Data alone doesn’t create value. Transformation happens when data drives decisions."</i>
+  ✨ <i>Data alone doesn’t create value. Transformation happens when data drives decisions.</i>
 </p>
