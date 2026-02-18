@@ -45,8 +45,14 @@ Sou apaixonada por transformar processos manuais em soluções automatizadas, cr
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendaespinosadataa&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaespinosadataa&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=brendaespinosadataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaespinosadataa&layout=compact&theme=tokyonight"
+    height="160"
+  />
 </p>
 
 ---
