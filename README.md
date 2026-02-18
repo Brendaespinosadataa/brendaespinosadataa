@@ -45,14 +45,9 @@ Sou apaixonada por transformar processos manuais em soluções automatizadas, cr
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=brendaespinosadataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaespinosadataa&layout=compact&theme=tokyonight"
-    height="160"
-  />
+  <img src="https://komarev.com/ghpvc/?username=brendaespinosadataa&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/followers/brendaespinosadataa?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/brendaespinosadataa?style=for-the-badge"/>
 </p>
 
 ---
@@ -77,6 +72,6 @@ Sou apaixonada por transformar processos manuais em soluções automatizadas, cr
 ---
 
 <p align="center">
-  ✨ <i>"Dados não geram valor sozinhos. A transformação acontece quando eles viram decisão."</i>
+  ✨ <i>Dados não geram valor sozinhos. A transformação acontece quando eles viram decisão.</i>
 </p>
 
