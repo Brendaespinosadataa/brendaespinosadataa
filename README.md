@@ -1,66 +1,70 @@
-<h1 align="center">👩🏻‍💻 Brenda Espinosa</h1>
+<h1 align="center">👩🏼‍💻 Brenda Espinosa</h1>
 
 <p align="center">
-  <strong>Data Enthusiast | Engenharia de Dados & Business Intelligence</strong>
+  <strong>Data Engineering & Business Intelligence | Automation</strong>
 </p>
 
 <p align="center">
-  🌏 Experiência Internacional | Transformando dados em decisões estratégicas 🚀
-</p>
-
----
-
-## 👩🏻‍💻 Sobre mim
-
-Me chamo **Brenda Espinosa**, sou estudante de Tecnologia da Informação com foco em **Engenharia de Dados, Business Intelligence e Automação**.
-
-🌏 Morei na **Austrália por 2 anos**, onde concluí **1 ano de Técnico em Informática**, ampliando minha visão global, adaptabilidade e base técnica em tecnologia.
-
-Sou apaixonada por transformar processos manuais em soluções automatizadas, criar dashboards estratégicos e desenvolver sistemas inteligentes de monitoramento de dados.
-
-🎯 Meu objetivo é me tornar uma **Engenheira de Dados completa**, unindo forte capacidade técnica com visão estratégica de negócio.
-
----
-
-## 🚀 Linguagens & Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+  International background • Data-driven mindset • Reliable and structured
 </p>
 
 ---
 
-## 📊 Estatísticas
+## About Me
 
-- 🔥 Foco em projetos de dados e automação  
-- 📁 Repositórios organizados por estudo e prática  
-- 📊 Dashboards e soluções orientadas a negócio  
-- 🌏 Experiência internacional (Austrália)  
+I am **Brenda Espinosa**, a Technology student with a strong focus on **Data Engineering, Business Intelligence, and Automation**.
 
----
+I lived in **Australia for 2 years**, where I completed **1 year of Technical Studies in Information Technology**, gaining solid technical foundations, adaptability, and experience working in international environments.
 
-## 🔥 Projetos em Destaque
+I focus on building **reliable, well-structured, and maintainable data solutions**, with an emphasis on automation, data quality, and business-oriented reporting.
 
-- 📊 Agente Inteligente de Monitoramento de Dados  
-- 📈 Dashboards Estratégicos (Power BI & Looker Studio)  
-- ⚙️ Automações Inteligentes com n8n  
-- 🗄️ Modelagem e Estruturação de Banco de Dados  
+My long-term goal is to work as a **Data Engineer**, contributing to scalable and efficient data platforms.
 
 ---
 
-## 📫 Conecte-se comigo
+## Technical Skills
+
+**Programming & Markup**  
+- Python  
+- SQL  
+- HTML & CSS  
+
+**Data & Analytics**  
+- Power BI  
+- Looker Studio  
+- Data Modeling  
+- Dashboard Development  
+
+**Databases**  
+- MySQL  
+
+**Automation & Tools**  
+- n8n  
+- Git & GitHub  
+- Databricks  
+
+---
+
+## Highlights
+
+- Strong focus on data engineering and automation  
+- Structured and well-documented repositories  
+- Business-oriented dashboards and reporting  
+- Experience in international environments (Australia)  
+- Clear communication and attention to detail  
+
+---
+
+## Selected Projects
+
+- Intelligent Data Monitoring Agent  
+- Automated reporting pipelines  
+- Business dashboards (Power BI & Looker Studio)  
+- Database modeling and structured datasets  
+
+---
+
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brenda-espinosa-b93b74193/">
@@ -71,6 +75,5 @@ Sou apaixonada por transformar processos manuais em soluções automatizadas, cr
 ---
 
 <p align="center">
-  ✨ <i>Dados não geram valor sozinhos. A transformação acontece quando eles viram decisão.</i>
+  <i>Focused on clarity, structure, and long-term maintainability.</i>
 </p>
-
