@@ -1,4 +1,4 @@
-<h1 align="center">👩🏼‍💻 Brenda Espinosa</h1>
+<h1 align="center">👩‍🦰🧡 Brenda Espinosa</h1>
 
 <p align="center">
   <strong>Data Enthusiast | Data Engineering & Business Intelligence</strong>
@@ -10,7 +10,7 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+## 👩‍🦰 About Me
 
 My name is **Brenda Espinosa**, and I am a Technology student focused on **Data Engineering, Business Intelligence, and Process Automation**.
 
